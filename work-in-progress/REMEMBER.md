@@ -6,7 +6,7 @@
 **Product nib:** ZETA6 · LULU0–5 · **SETU6.5 · live-sent** · HOLD0–HOLD1 · HOLD-W  
 **Language nib:** **STOA0–147** GREEN · capacity freeze at 9  
 **Suite nib:** ZETA0–6 · LULU0–5 · SETU0–SETU6.5 · live-sent · HOLD* · STOA0–147  
-**Git nib:** *(pending send)* SETU6.5 live-sent enx  
+**Git nib:** `b52d20c285` SETU6.5 live-sent enx  
 
 **Season:** Framework · UDT · **SETU6.5 live-sent GREEN** on Pixel CDC-NCM `enx96e56705b13c` → `10.201.192.38:38503`.  
 **APK:** `tools/.cache/tube05/sala-broadcaster.apk` · pkg `org.glow.app.sala_broadcaster`
