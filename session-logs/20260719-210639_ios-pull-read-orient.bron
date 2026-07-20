@@ -1,0 +1,18 @@
+format session-log-v1
+stamp 20260719.210639
+editor Cursor
+model Cursor Grok 4.5 300k High Fast
+voice Quin
+host Cursor iOS / cloud sandbox — Eastern time convention (handoff season)
+title iOS pull and read latest expanding prompt
+prompt pull recent progress; read latest expanded prompt from today; model is Cursor Grok 4.5 300k High Fast from Cursor iOS
+think Switched to main and fast-forwarded to origin/main at ca67aa1b43 (iOS handoff send complete).
+think Newest expanding-prompt by stamp is 20260719-204001 fixture desks and parameterized generators — no 20260720 expanding-prompt file yet.
+think Read living handoff 20260719-204650 — Quin voice; Glow language TAME only; no adb; STOA90 lean A pronunciation table G1 awaits approve.
+think Also seated this handoff: dry cores fit; wet/gold hold; port order L then R then G.
+obs REMEMBER git nib still names 6a561a3358; HEAD is ca67aa1b43 after pin and send-complete logs — refresh on remember word.
+obs STOA0-89 GREEN; language season continues on iOS until Keaton returns USB to Framework.
+file work-in-progress/20260719-204650_cursor-ios-handoff-glow-language.md season take-over card
+file expanding-prompts/20260719-204001_glow-fixture-desks-and-parameterized-generators.md latest expanding prompt
+file work-in-progress/REMEMBER.md open doors STOA90
+recommend check-in approve STOA90 lean A pronunciation table G1 — or redirect lean
