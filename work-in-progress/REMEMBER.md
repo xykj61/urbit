@@ -6,7 +6,7 @@
 **Product nib:** ZETA6 · LULU0–5 · **SETU6.5 · live-sent** · HOLD0–HOLD1 · HOLD-W  
 **Language nib:** **STOA0–148** GREEN · capacity freeze at 9 · **amount-shape**  
 **Suite nib:** ZETA0–6 · LULU0–5 · SETU0–SETU6.5 · live-sent · HOLD* · STOA0–148  
-**Git nib:** `78df796ed4` STOA148 amount-shape · next STOA149 count-shape  
+**Git nib:** `538f179add` STOA148 amount-shape · next STOA149 count-shape  
 
 **Season:** Framework · UDT · shape language first · SETU6.5 live-sent GREEN.  
 **APK:** `tools/.cache/tube05/sala-broadcaster.apk` · pkg `org.glow.app.sala_broadcaster`
