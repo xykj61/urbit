@@ -6,7 +6,7 @@
 **Product nib:** ZETA6 · LULU0–5 · **SETU6.5** · HOLD0–HOLD1 · HOLD-W  
 **Language nib:** **STOA0–147** GREEN · field capacity freeze at 9 · STOA148 withdrawn  
 **Suite nib:** ZETA0–6 · LULU0–5 · SETU0–SETU6.5 · HOLD0–HOLD1 · HOLD-W · STOA0–147  
-**Git nib:** `2a1151fd27` capacity freeze · *(UDT seat pending this send)*  
+**Git nib:** `0140a2dae2` UDT resume · capacity freeze held  
 
 **Season:** Framework 16 host resumed · stamps **UDT (UTC)** — [`../context/specs/20260720-232932_udt-framework-host-convention.md`](../context/specs/20260720-232932_udt-framework-host-convention.md). Language field ladder frozen; next Framework door = SETU live-sent.  
 **APK:** `tools/.cache/tube05/sala-broadcaster.apk` · pkg `org.glow.app.sala_broadcaster`
