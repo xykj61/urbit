@@ -6,7 +6,7 @@
 **Product nib:** ZETA6 · LULU0–5 · **SETU6.5 · live-sent** · HOLD* · **Sala B0 Glow claim compose**  
 **Language nib:** **STOA0–197** GREEN · claim compose · replay · append · digest · fixture  
 **Suite nib:** ZETA0–6 · LULU0–5 · SETU0–SETU6.5 · live-sent · HOLD* · STOA0–197  
-**Git nib:** `02357d9cec` · STOA196 replay (STOA197 unsent)  
+**Git nib:** `37164ad3f9` · STOA197 claim compose  
 
 **Season:** Framework · UDT · claim compose GREEN · ports on pier through STOA196 · SETU6.5 live-sent GREEN.  
 **APK:** `tools/.cache/tube05/sala-broadcaster.apk` · pkg `org.glow.app.sala_broadcaster`
