@@ -6,7 +6,7 @@
 **Product nib:** ZETA6 · LULU0–5 · **SETU6.5 · live-sent** · HOLD* · **Sala B0 Glow**  
 **Language nib:** **STOA0–179** GREEN · STOA180 check-in  
 **Suite nib:** ZETA0–6 · LULU0–5 · SETU0–SETU6.5 · live-sent · HOLD* · STOA0–179  
-**Git nib:** packing STOA177–179 send  
+**Git nib:** `0f5be54dc2` STOA177–180 on origin+codeberg  
 
 **Season:** Framework · UDT · Sala B0 Glow · `@t` check-in · SETU6.5 live-sent GREEN.  
 **APK:** `tools/.cache/tube05/sala-broadcaster.apk` · pkg `org.glow.app.sala_broadcaster`
