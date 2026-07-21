@@ -6,7 +6,7 @@
 **Product nib:** ZETA6 · LULU0–5 · **SETU6.5 · live-sent** · HOLD0–HOLD1 · HOLD-W  
 **Language nib:** **STOA0–176** GREEN · multi-field cast inventary closed · STOA177 check-in  
 **Suite nib:** ZETA0–6 · LULU0–5 · SETU0–SETU6.5 · live-sent · HOLD* · STOA0–176  
-**Git nib:** packing STOA176 send  
+**Git nib:** `49a7497c6c` STOA176+177 on origin+codeberg  
 
 **Season:** Framework · UDT · cast inventary closed · SETU6.5 live-sent GREEN.  
 **APK:** `tools/.cache/tube05/sala-broadcaster.apk` · pkg `org.glow.app.sala_broadcaster`
