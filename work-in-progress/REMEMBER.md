@@ -6,7 +6,7 @@
 **Product nib:** ZETA6 · LULU0–5 · **SETU6.5 · live-sent** · HOLD* · **Sala B0 Glow claim**  
 **Language nib:** **STOA0–192** GREEN · fixture constants desk · claim wire · ShapeSpec  
 **Suite nib:** ZETA0–6 · LULU0–5 · SETU0–SETU6.5 · live-sent · HOLD* · STOA0–192  
-**Git nib:** `aa5afa9b0d` · STOA191 claim wire (STOA192 unsent)  
+**Git nib:** `6cf846e36f` · STOA192 fixture desk  
 
 **Season:** Framework · UDT · fixture constants desk GREEN · claim wire on pier · SETU6.5 live-sent GREEN.  
 **APK:** `tools/.cache/tube05/sala-broadcaster.apk` · pkg `org.glow.app.sala_broadcaster`
