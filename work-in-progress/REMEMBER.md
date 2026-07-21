@@ -2,11 +2,12 @@
 
 *One-page carry card for outer terminal · phone · waymarks. Refreshed when Keaton says **remember**.*
 
-**Last refreshed:** `20260721.173330` (UDT) · voice Quin  
+**Last refreshed:** `20260721.173400` (UDT) · voice Quin  
 **Product nib:** ZETA6 · LULU0–5 · **SETU6.5 · live-sent** · HOLD* · **Sala B0 Glow**  
 **Language nib:** **STOA0–180** GREEN · `@t` thin · shape kept  
 **Suite nib:** ZETA0–6 · LULU0–5 · SETU0–SETU6.5 · live-sent · HOLD* · STOA0–180  
-**Git nib:** *(refresh after push)* · STOA180 sending  
+**Git nib:** `dd21483b12` · STOA180 sent  
+
 
 **Season:** Framework · UDT · Sala B0 Glow · next `@t` lower · SETU6.5 live-sent GREEN.  
 **APK:** `tools/.cache/tube05/sala-broadcaster.apk` · pkg `org.glow.app.sala_broadcaster`
