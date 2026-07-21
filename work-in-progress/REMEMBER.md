@@ -6,7 +6,7 @@
 **Product nib:** ZETA6 · LULU0–5 · **SETU6.5 · live-sent** · HOLD* · **Sala B0 Glow append**  
 **Language nib:** **STOA0–195** GREEN · append · digest · fixture pin · claim wire  
 **Suite nib:** ZETA0–6 · LULU0–5 · SETU0–SETU6.5 · live-sent · HOLD* · STOA0–195  
-**Git nib:** `dc57dacc5e` · STOA193–194 (STOA195 unsent)  
+**Git nib:** `c60f3ae46e` · STOA195 append thin port  
 
 **Season:** Framework · UDT · append thin port GREEN · digest + fixture on pier · SETU6.5 live-sent GREEN.  
 **APK:** `tools/.cache/tube05/sala-broadcaster.apk` · pkg `org.glow.app.sala_broadcaster`
