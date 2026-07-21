@@ -6,7 +6,7 @@
 **Product nib:** ZETA6 · LULU0–5 · **SETU6.5 · live-sent** · HOLD* · **Sala B0 Glow digest**  
 **Language nib:** **STOA0–194** GREEN · digest port · fixture pin · claim wire · ShapeSpec  
 **Suite nib:** ZETA0–6 · LULU0–5 · SETU0–SETU6.5 · live-sent · HOLD* · STOA0–194  
-**Git nib:** `6cf846e36f` · STOA192 fixture desk (STOA193–194 unsent)  
+**Git nib:** `dc57dacc5e` · STOA193-194 fixture pin · digest  
 
 **Season:** Framework · UDT · digest thin port GREEN · fixture pin + desk · SETU6.5 live-sent GREEN.  
 **APK:** `tools/.cache/tube05/sala-broadcaster.apk` · pkg `org.glow.app.sala_broadcaster`
