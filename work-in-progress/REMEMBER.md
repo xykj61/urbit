@@ -6,7 +6,7 @@
 **Product nib:** ZETA6 · LULU0–5 · **SETU6.5 · live-sent** · HOLD* · **Sala B0 Glow fold**  
 **Language nib:** **STOA0–198** GREEN · Glow fold · claim compose · ports · fixture  
 **Suite nib:** ZETA0–6 · LULU0–5 · SETU0–SETU6.5 · live-sent · HOLD* · STOA0–198  
-**Git nib:** `37164ad3f9` · STOA197 compose (STOA198 unsent)  
+**Git nib:** `b7966301a2` · STOA198 Glow fold  
 
 **Season:** Framework · UDT · Glow fold product surface GREEN · compose on pier · SETU6.5 live-sent GREEN.  
 **APK:** `tools/.cache/tube05/sala-broadcaster.apk` · pkg `org.glow.app.sala_broadcaster`
