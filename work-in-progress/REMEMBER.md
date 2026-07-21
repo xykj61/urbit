@@ -6,7 +6,7 @@
 **Product nib:** ZETA6 · LULU0–5 · **SETU6.5 · live-sent** · HOLD* · **Sala B0 Glow claim**  
 **Language nib:** **STOA0–191** GREEN · ShapeSpec · claim wire · `$%` payload · sala cast  
 **Suite nib:** ZETA0–6 · LULU0–5 · SETU0–SETU6.5 · live-sent · HOLD* · STOA0–191  
-**Git nib:** *(refresh after send)* · STOA191 claim wire  
+**Git nib:** `aa5afa9b0d` · STOA191 claim wire  
 
 **Season:** Framework · UDT · NativeActivity claims through Glow shell · SETU6.5 live-sent GREEN.  
 **APK:** `tools/.cache/tube05/sala-broadcaster.apk` · pkg `org.glow.app.sala_broadcaster`
