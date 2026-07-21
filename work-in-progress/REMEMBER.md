@@ -6,7 +6,7 @@
 **Product nib:** ZETA6 · LULU0–5 · **SETU6.5 · live-sent** · HOLD* · **Sala B0 Glow fold · Pixel eyes**  
 **Language nib:** **STOA0–200** GREEN · vane-body inventory · Glow fold · compose · ports  
 **Suite nib:** ZETA0–6 · LULU0–5 · SETU0–SETU6.5 · live-sent · HOLD* · STOA0–200  
-**Git nib:** `b7966301a2` · STOA198 Glow fold (STOA199A–200 unsent)  
+**Git nib:** `01e7428ee7` · STOA199A eyes · STOA200 inventory  
 
 **Season:** Framework · UDT · vane-body inventory seated · Pixel eyes GREEN · SETU6.5 live-sent GREEN.  
 **APK:** `tools/.cache/tube05/sala-broadcaster.apk` · pkg `org.glow.app.sala_broadcaster`
