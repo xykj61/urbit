@@ -6,7 +6,7 @@
 **Product nib:** ZETA6 · LULU0–5 · **SETU6.5 · live-sent** · HOLD* · LIVE eyes · **HAWM folded**  
 **Language nib:** **STOA0–294** · Survey seated · tagged `$%` payload flip on bartis  
 **Suite nib:** ZETA0–6 · LULU0–5 · SETU0–SETU6.5 · live-sent · HOLD* · STOA0–294  
-**Git nib:** *(pin after send)* · STOA293–294
+**Git nib:** `57aa4dbdcc08` · STOA293–294
 
 
 **Season:** Framework · Eastern / EDT · STOA293 GREEN · lean B barket twin · round-close on.  
