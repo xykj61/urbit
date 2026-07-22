@@ -1,0 +1,11 @@
+format session-log-v1
+stamp 20260722.144745
+editor Cursor
+model Cursor Grok 4.5 300k High Fast
+voice Quin
+host Ubuntu 26.04 LTS GNOME Wayland (Framework 16 AMD) — Eastern (EDT) time convention
+title REMEMBER git nib after STOA258
+prompt approve recs round-close send
+think Pin REMEMBER git nib to 02b62dc59096 after shape-only living lands.
+file work-in-progress/REMEMBER.md git_nib 02b62dc59096
+recommend keep-going flip call-body collapse (STOA258 lean B)
