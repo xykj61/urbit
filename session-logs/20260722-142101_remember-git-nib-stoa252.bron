@@ -1,0 +1,13 @@
+format session-log-v1
+stamp 20260722.142101
+editor Cursor
+model Cursor Grok 4.5 300k High Fast
+voice Quin
+host Ubuntu 26.04 LTS GNOME Wayland (Framework 16 AMD) — Eastern (EDT) time convention
+title REMEMBER git nib after STOA252
+prompt round-close pin git nib after STOA251-252 send
+think Landed commit e0e9a43e8168; refresh living operator card git nib.
+obs REMEMBER git_nib e0e9a43e8168 for STOA251-252.
+file work-in-progress/REMEMBER.md git_nib after N-field inventary send
+git_nib e0e9a43e8168
+recommend keep-going thin identity N-field emit after STOA252
