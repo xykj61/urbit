@@ -6,7 +6,7 @@
 **Product nib:** ZETA6 · LULU0–5 · **SETU6.5 · live-sent** · HOLD* · LIVE eyes · **HAWM folded**  
 **Language nib:** **STOA0–292** · **Survey** seated · tagged `$%` flip survey next  
 **Suite nib:** ZETA0–6 · LULU0–5 · SETU0–SETU6.5 · live-sent · HOLD* · STOA0–292  
-**Git nib:** *(pin after send)* · STOA292
+**Git nib:** `d515b7dc0001` · STOA292
 
 
 **Season:** Framework · Eastern / EDT · Survey seated · STOA291 lean A tagged `$%` flip survey · round-close on.  
