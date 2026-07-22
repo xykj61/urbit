@@ -1,0 +1,15 @@
+format session-log-v1
+stamp 20260722.135406
+editor Cursor
+model Cursor Grok 4.5 300k High Fast
+voice Quin
+host Ubuntu 26.04 LTS GNOME Wayland (Framework 16 AMD) — Eastern (EDT) time convention
+title REMEMBER git nib after STOA238 send
+prompt kg
+think Pin living card to git nib 6aa85ec080f6 after STOA237-238 embedded desk round-close.
+obs Follow-up wip; next Pixel eyes outer terminal.
+file work-in-progress/REMEMBER.md git nib STOA238
+git_nib 6aa85ec080f6
+product_nib Sala-B0-Glow-compose
+suite_nib STOA0-238
+recommend keep-going Pixel eyes on outer terminal
