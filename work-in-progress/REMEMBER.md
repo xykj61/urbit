@@ -2,11 +2,11 @@
 
 *One-page carry card for outer terminal · phone · waymarks. Refreshed when Keaton says **remember**.*
 
-**Last refreshed:** `20260722.135605` (EDT) · voice Quin  
+**Last refreshed:** `20260722.135647` (EDT) · voice Quin  
 **Product nib:** ZETA6 · LULU0–5 · **SETU6.5 · live-sent** · HOLD* · **Sala B0 Glow compose** · embedded desk · **Pixel eyes**  
 **Language nib:** **STOA0–240** GREEN · after Pixel embedded-desk eyes  
 **Suite nib:** ZETA0–6 · LULU0–5 · SETU0–SETU6.5 · live-sent · HOLD* · STOA0–240  
-**Git nib:** *(after send)* · STOA239–240  
+**Git nib:** `a0b9fc9b2300` · STOA239–240  
 
 
 **Season:** Framework · Eastern / EDT · Pixel eyes GREEN on embedded desk · round-close on.  
