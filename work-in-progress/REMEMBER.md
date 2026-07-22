@@ -6,7 +6,7 @@
 **Product nib:** ZETA6 · LULU0–5 · **SETU6.5 · live-sent** · HOLD* · LIVE paint · **HAWM folded · resume**  
 **Language nib:** **STOA0–288** · shape-only · HAWM rest · resume check-in  
 **Suite nib:** ZETA0–6 · LULU0–5 · SETU0–SETU6.5 · live-sent · HOLD* · STOA0–288  
-**Git nib:** *(pin after send)* · STOA288
+**Git nib:** `611840f5b5f8` · STOA288
 
 
 **Season:** Framework · Eastern / EDT · continue after rest · Pixel attached · lean A Pixel LIVE eyes · round-close on.  
