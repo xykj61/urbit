@@ -6,7 +6,7 @@
 **Product nib:** ZETA6 · LULU0–5 · **SETU6.5 · live-sent** · HOLD* · LIVE paint · **HAWM harvest host GREEN**  
 **Language nib:** **STOA0–282** · shape-only · Dexter→Sala LIVE closed · host boot→harvest GREEN  
 **Suite nib:** ZETA0–6 · LULU0–5 · SETU0–SETU6.5 · live-sent · HOLD* · STOA0–282  
-**Git nib:** *(pin after send)* · STOA281–282
+**Git nib:** `1a5850d0fa34` · STOA281–282
 
 
 **Season:** Framework · Eastern / EDT · host boot→harvest GREEN beside Pixel · emulator may still be up · root-into-harvest next · round-close on.  
