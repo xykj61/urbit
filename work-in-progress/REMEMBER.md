@@ -6,7 +6,7 @@
 **Product nib:** ZETA6 · LULU0–5 · **SETU6.5 · live-sent** · HOLD* · LIVE paint · **HAWM harvest-v1** · serial pin  
 **Language nib:** **STOA0–280** · shape-only · Dexter→Sala LIVE closed · HAWM serial pin GREEN  
 **Suite nib:** ZETA0–6 · LULU0–5 · SETU0–SETU6.5 · live-sent · HOLD* · STOA0–280  
-**Git nib:** *(pin after send)* · STOA279–280
+**Git nib:** `ed85b9541e21` · STOA279–280
 
 
 **Season:** Framework · Eastern / EDT · host boot failed on Pixel+bare-adb race · serial pin landed · host retry next · round-close on.  
