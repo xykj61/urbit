@@ -1,0 +1,15 @@
+format session-log-v1
+stamp 20260722.134735
+editor Cursor
+model Cursor Grok 4.5 300k High Fast
+voice Quin
+host Ubuntu 26.04 LTS GNOME Wayland (Framework 16 AMD) — Eastern (EDT) time convention
+title REMEMBER git nib after STOA236 send
+prompt kg
+think Pin living card to git nib 580f607c8b61 after STOA235-236 desk-file claim round-close.
+obs Follow-up wip; next kg NA desk asset.
+file work-in-progress/REMEMBER.md git nib STOA236
+git_nib 580f607c8b61
+product_nib Sala-B0-Glow-compose
+suite_nib STOA0-236
+recommend keep-going NativeActivity APK desk asset
