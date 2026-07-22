@@ -6,7 +6,7 @@
 **Product nib:** ZETA6 · LULU0–5 · **SETU6.5 · live-sent** · HOLD* · LIVE eyes · **HAWM folded**  
 **Language nib:** **STOA0–320** · Survey seated · octa `$:` argv GREEN  
 **Suite nib:** ZETA0–6 · LULU0–5 · SETU0–SETU6.5 · live-sent · HOLD* · STOA0–320  
-**Git nib:** *(pin after send)* · STOA319–320
+**Git nib:** `1f9ff6ee2097` · STOA319–320
 
 
 **Season:** Framework · Eastern / EDT · do not recommend rest · lean C nona argv · round-close on.  
