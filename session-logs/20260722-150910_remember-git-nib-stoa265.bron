@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20260722.150910
+editor Cursor
+model Cursor Grok 4.5 300k High Fast
+voice Quin
+host Ubuntu 26.04 LTS GNOME Wayland (Framework 16 AMD) — Eastern (EDT) time convention
+title REMEMBER git nib after STOA265
+prompt check in round-close pin
+think pin living card after Dexter-Sala check-in send
+obs git nib 722d8c560422
+suite_nib STOA0-265
+git_nib 722d8c560422
+file work-in-progress/REMEMBER.md pin 722d8c560422
+recommend keep-going typed memo append_event witness
