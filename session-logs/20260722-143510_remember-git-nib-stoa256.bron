@@ -1,0 +1,12 @@
+format session-log-v1
+stamp 20260722.143510
+editor Cursor
+model Cursor Grok 4.5 300k High Fast
+voice Quin
+host Ubuntu 26.04 LTS GNOME Wayland (Framework 16 AMD) — Eastern (EDT) time convention
+title REMEMBER git nib after STOA256
+prompt kg round-close send
+think Pin REMEMBER git nib to df21de606e7f after STOA255-256 land.
+obs Living operator card tracks language nib STOA0-256.
+file work-in-progress/REMEMBER.md git_nib df21de606e7f
+recommend keep-going flip call-body collapse (STOA256 lean B)
