@@ -6,7 +6,7 @@
 **Product nib:** ZETA6 · LULU0–5 · **SETU6.5 · live-sent** · HOLD* · **Sala B0 Glow compose** · embedded desk · **Pixel eyes** · face_lit agree · **authored line body**  
 **Language nib:** **STOA0–244** GREEN · after product-authored line body  
 **Suite nib:** ZETA0–6 · LULU0–5 · SETU0–SETU6.5 · live-sent · HOLD* · STOA0–244  
-**Git nib:** *(set after send)* · STOA243–244  
+**Git nib:** `c003ffbb7bfe` · STOA243–244  
 
 
 **Season:** Framework · Eastern / EDT · first authored line body GREEN · round-close on.  

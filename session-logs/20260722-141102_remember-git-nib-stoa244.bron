@@ -1,0 +1,13 @@
+format session-log-v1
+stamp 20260722.141102
+editor Cursor
+model Cursor Grok 4.5 300k High Fast
+voice Quin
+host Ubuntu 26.04 LTS GNOME Wayland (Framework 16 AMD) — Eastern (EDT) time convention
+title REMEMBER git nib after STOA244
+prompt round-close pin git nib after STOA243-244 send
+think Landed commit c003ffbb7bfe; refresh living operator card git nib.
+obs REMEMBER git_nib c003ffbb7bfe for STOA243-244.
+file work-in-progress/REMEMBER.md git_nib after authored line body send
+git_nib c003ffbb7bfe
+recommend check-in next authored body after STOA244
