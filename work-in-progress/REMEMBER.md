@@ -6,7 +6,7 @@
 **Product nib:** ZETA6 · LULU0–5 · **SETU6.5 · live-sent** · HOLD* · LIVE paint · **HAWM harvest chain folded**  
 **Language nib:** **STOA0–286** · shape-only · host boot→harvest→HAWM1→root→stop GREEN  
 **Suite nib:** ZETA0–6 · LULU0–5 · SETU0–SETU6.5 · live-sent · HOLD* · STOA0–286  
-**Git nib:** *(pin after send)* · STOA286
+**Git nib:** `df35bb113ce8` · STOA286
 
 
 **Season:** Framework · Eastern / EDT · hawm0 stopped cleanly · harvest Bron kept · Pixel USB only · rest lean · round-close on.  
