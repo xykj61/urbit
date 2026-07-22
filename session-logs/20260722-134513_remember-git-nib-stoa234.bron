@@ -1,0 +1,15 @@
+format session-log-v1
+stamp 20260722.134513
+editor Cursor
+model Cursor Grok 4.5 300k High Fast
+voice Quin
+host Ubuntu 26.04 LTS GNOME Wayland (Framework 16 AMD) — Eastern (EDT) time convention
+title REMEMBER git nib after STOA234 send
+prompt just automate the sends and check ins from here on, so every round ends with a check-in
+think Pin living card to git nib d24701ce4b20 after STOA233-234 round-close send.
+obs Follow-up wip; next kg fold desk I/O.
+file work-in-progress/REMEMBER.md git nib STOA234
+git_nib d24701ce4b20
+product_nib Sala-B0-Glow-compose
+suite_nib STOA0-234
+recommend keep-going fold claim desk file I/O
