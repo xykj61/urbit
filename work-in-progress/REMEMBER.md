@@ -6,7 +6,7 @@
 **Product nib:** ZETA6 · LULU0–5 · **SETU6.5 · live-sent** · HOLD* · **LIVE eyes after HAWM**  
 **Language nib:** **STOA0–290** · shape-only · HAWM folded · Pixel LIVE re-proved  
 **Suite nib:** ZETA0–6 · LULU0–5 · SETU0–SETU6.5 · live-sent · HOLD* · STOA0–290  
-**Git nib:** *(pin after send)* · STOA289–290
+**Git nib:** `0443b2f6150a` · STOA289–290
 
 
 **Season:** Framework · Eastern / EDT · Pixel LIVE eyes GREEN · lean B rest · round-close on.  
