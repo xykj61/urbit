@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20260722.152325
+editor Cursor
+model Cursor Grok 4.5 300k High Fast
+voice Quin
+host Ubuntu 26.04 LTS GNOME Wayland (Framework 16 AMD) — Eastern (EDT) time convention
+title REMEMBER git nib after STOA273
+prompt kg round-close pin
+think pin living card after LIVE paint send
+obs git nib de1113bad8c5
+suite_nib STOA0-273
+git_nib de1113bad8c5
+file work-in-progress/REMEMBER.md pin de1113bad8c5
+recommend check-in HAWM 1A when mobile season turns
