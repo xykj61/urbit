@@ -1,0 +1,12 @@
+format session-log-v1
+stamp 20260722.161152
+editor Cursor
+model Cursor Grok 4.5 300k High Fast
+voice Quin
+host Ubuntu 26.04 LTS GNOME Wayland (Framework 16 AMD) — Eastern (EDT) time convention
+title REMEMBER git nib after STOA299
+prompt send then let's continue
+think pin git nib after STOA299 continue check-in send
+obs git_nib cda543aac20f
+file work-in-progress/REMEMBER.md git nib pin
+recommend check-in lean A tagged argv survey
