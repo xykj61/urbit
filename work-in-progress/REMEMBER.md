@@ -6,7 +6,7 @@
 **Product nib:** ZETA6 · LULU0–5 · **SETU6.5 · live-sent** · HOLD* · LIVE eyes · **HAWM folded**  
 **Language nib:** **STOA0–291** · shape-only · continue · tagged `$%` flip inventary next  
 **Suite nib:** ZETA0–6 · LULU0–5 · SETU0–SETU6.5 · live-sent · HOLD* · STOA0–291  
-**Git nib:** *(pin after send)* · STOA291
+**Git nib:** `a77e356968be` · STOA291
 
 
 **Season:** Framework · Eastern / EDT · continue after Pixel eyes · lean A tagged `$%` flip inventary · round-close on.  
