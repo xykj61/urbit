@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20260722.143539
+editor Cursor
+model Cursor Grok 4.5 300k High Fast
+voice Quin
+host Ubuntu 26.04 LTS GNOME Wayland (Framework 16 AMD) — Eastern (EDT) time convention
+title REMEMBER git nib STOA256 fix
+prompt kg round-close send follow-up
+think Shell quoting glitched REMEMBER pin and README row on the first nib refresh.
+think Set git nib df21de606e7f and repair the newest-first index link.
+obs Pier already held the work; this lands the living card truth.
+file work-in-progress/REMEMBER.md git_nib df21de606e7f
+file session-logs/README.md repair STOA256 nib row
+recommend keep-going flip call-body collapse (STOA256 lean B)
