@@ -6,7 +6,7 @@
 **Product nib:** ZETA6 · LULU0–5 · **SETU6.5 · live-sent** · HOLD* · **Sala B0 Glow compose** · authored line · sign · **digest**  
 **Language nib:** **STOA0–248** GREEN · after product-authored digest body  
 **Suite nib:** ZETA0–6 · LULU0–5 · SETU0–SETU6.5 · live-sent · HOLD* · STOA0–248  
-**Git nib:** *(set after send)* · STOA247–248  
+**Git nib:** `361969662bc1` · STOA247–248
 
 
 **Season:** Framework · Eastern / EDT · authored trilogy (line·sign·digest) GREEN · round-close on.  
