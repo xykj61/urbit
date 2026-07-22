@@ -7,6 +7,7 @@ Living index for the append-only session stream. This table reads **newest first
 **Day’s truth is this index’s order, not filename sort.** One-clock stamps sort ascending on disk; trust the table for sequence within a day.
 
 Naming follows [`context/specs/20260627-102012_one-clock-naming-law.md`](../context/specs/20260627-102012_one-clock-naming-law.md).
+- `20260722.140125` — [REMEMBER git nib after STOA242](20260722-140125_remember-git-nib-stoa242.bron) — pin b5fc164eda97
 
 - `20260722.140100` — [STOA241–242 face_lit agree round](20260722-140100_stoa241-242-face-lit-agree-round.bron) — product stand-in ≡ Glow pins; name next door
 - `20260722.135731` — [Recommend after Pixel eyes arc](20260722-135731_rec-after-pixel-eyes-arc.bron) — size face_lit or pause

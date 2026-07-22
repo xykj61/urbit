@@ -6,7 +6,7 @@
 **Product nib:** ZETA6 · LULU0–5 · **SETU6.5 · live-sent** · HOLD* · **Sala B0 Glow compose** · embedded desk · **Pixel eyes** · face_lit agree  
 **Language nib:** **STOA0–242** GREEN · after face_lit product agree  
 **Suite nib:** ZETA0–6 · LULU0–5 · SETU0–SETU6.5 · live-sent · HOLD* · STOA0–242  
-**Git nib:** *(set after send)* · STOA241–242  
+**Git nib:** `b5fc164eda97` · STOA241–242  
 
 
 **Season:** Framework · Eastern / EDT · thin face_lit agree GREEN · round-close on.  
