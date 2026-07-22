@@ -1,0 +1,14 @@
+format session-log-v1
+stamp 20260722.151924
+editor Cursor
+model Cursor Grok 4.5 300k High Fast
+voice Quin
+host Ubuntu 26.04 LTS GNOME Wayland (Framework 16 AMD) — Eastern (EDT) time convention
+title REMEMBER git nib after STOA271
+prompt kg round-close pin
+think pin living card after live-root wire send
+obs git nib cbab2ee0e209
+suite_nib STOA0-271
+git_nib cbab2ee0e209
+file work-in-progress/REMEMBER.md pin cbab2ee0e209
+recommend keep-going live-root paint lean B
