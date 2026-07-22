@@ -2,11 +2,11 @@
 
 *One-page carry card for outer terminal · phone · waymarks. Refreshed when Keaton says **remember**.*
 
-**Last refreshed:** `20260722.183720` (EDT) · voice Quin  
+**Last refreshed:** `20260722.183757` (EDT) · voice Quin
 **Product nib:** ZETA6 · LULU0–5 · **SETU6.5 · live-sent** · HOLD* · LIVE eyes · **HAWM folded**  
 **Language nib:** **STOA0–301** · Survey seated · kind unit-tag argv GREEN  
 **Suite nib:** ZETA0–6 · LULU0–5 · SETU0–SETU6.5 · live-sent · HOLD* · STOA0–301  
-**Git nib:** *(pin after send)* · cursorignore · STOA300–301
+**Git nib:** `c127b3ab73e6` · cursorignore
 
 
 **Season:** Framework · Eastern / EDT · `.cursorignore` seated · lean B rest · round-close on.  
