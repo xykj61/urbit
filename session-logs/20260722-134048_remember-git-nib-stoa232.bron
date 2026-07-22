@@ -1,0 +1,15 @@
+format session-log-v1
+stamp 20260722.134048
+editor Cursor
+model Cursor Grok 4.5 300k High Fast
+voice Quin
+host Ubuntu 26.04 LTS GNOME Wayland (Framework 16 AMD) — Eastern (EDT) time convention
+title REMEMBER git nib after STOA232 send
+prompt send and check in
+think Pin living card to git nib 9f7786b86115 after STOA231-232 pin emit check-in send.
+obs Follow-up wip; rest recommended next.
+file work-in-progress/REMEMBER.md git nib STOA232
+git_nib 9f7786b86115
+product_nib Sala-B0-Glow-compose
+suite_nib STOA0-232
+recommend rest; held doors need explicit word
