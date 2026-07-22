@@ -6,7 +6,7 @@
 **Product nib:** ZETA6 · LULU0–5 · **SETU6.5 · live-sent** · HOLD* · LIVE paint · **HAWM harvest-v1** · boot→harvest chain  
 **Language nib:** **STOA0–278** · shape-only · Dexter→Sala LIVE closed · HAWM harvest chain authored  
 **Suite nib:** ZETA0–6 · LULU0–5 · SETU0–SETU6.5 · live-sent · HOLD* · STOA0–278  
-**Git nib:** *(pin after send)* · STOA277–278
+**Git nib:** `6c939d171374` · STOA277–278
 
 
 **Season:** Framework · Eastern / EDT · boot→harvest chain authored · jail has no `/dev/kvm` · host onpath for full GREEN · round-close on.  

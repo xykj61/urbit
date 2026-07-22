@@ -1,0 +1,12 @@
+format session-log-v1
+stamp 20260722.153025
+editor Cursor
+model Cursor Grok 4.5 300k High Fast
+voice Quin
+host Ubuntu 26.04 LTS GNOME Wayland (Framework 16 AMD) — Eastern (EDT) time convention
+title REMEMBER git nib after STOA278
+prompt round-close pin
+think pin git nib after STOA277-278 send
+obs nib 6c939d171374
+file work-in-progress/REMEMBER.md git nib pin
+recommend keep-going host onpath or lean C after approve
