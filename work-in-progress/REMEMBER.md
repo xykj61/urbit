@@ -6,7 +6,7 @@
 **Product nib:** ZETA6 · LULU0–5 · **SETU6.5 · live-sent** · HOLD* · LIVE paint · **HAWM harvest+session_root**  
 **Language nib:** **STOA0–285** · shape-only · host boot→harvest→HAWM1→root GREEN  
 **Suite nib:** ZETA0–6 · LULU0–5 · SETU0–SETU6.5 · live-sent · HOLD* · STOA0–285  
-**Git nib:** *(pin after send)* · STOA284–285
+**Git nib:** `e9e5112a4f65` · STOA284–285
 
 
 **Season:** Framework · Eastern / EDT · session_root in harvest GREEN · AVD may still be up · lean B stop/rest · round-close on.  
