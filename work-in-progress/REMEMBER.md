@@ -2,11 +2,11 @@
 
 *One-page carry card for outer terminal · phone · waymarks. Refreshed when Keaton says **remember**.*
 
-**Last refreshed:** `20260722.152631` (EDT) · voice Quin  
+**Last refreshed:** `20260722.152716` (EDT) · voice Quin  
 **Product nib:** ZETA6 · LULU0–5 · **SETU6.5 · live-sent** · HOLD* · LIVE paint · **HAWM harvest-v1**  
 **Language nib:** **STOA0–276** · shape-only · Dexter→Sala LIVE closed · HAWM inventary GREEN  
 **Suite nib:** ZETA0–6 · LULU0–5 · SETU0–SETU6.5 · live-sent · HOLD* · STOA0–276  
-**Git nib:** *(pin after send)* · STOA275–276
+**Git nib:** `ee27364f841e` · STOA275–276
 
 
 **Season:** Framework · Eastern / EDT · HAWM harvest inventary GREEN · host boot→harvest next · round-close on.  
