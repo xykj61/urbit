@@ -6,7 +6,7 @@
 **Product nib:** ZETA6 · LULU0–5 · **SETU6.5 · live-sent** · HOLD* · LIVE paint · **HAWM season at rest**  
 **Language nib:** **STOA0–287** · shape-only · HAWM deepen folded · rest chosen  
 **Suite nib:** ZETA0–6 · LULU0–5 · SETU0–SETU6.5 · live-sent · HOLD* · STOA0–287  
-**Git nib:** *(pin after send)* · STOA287
+**Git nib:** `c6334634ad20` · STOA287
 
 
 **Season:** Framework · Eastern / EDT · **rest** · hawm0 down · harvest Bron kept · no next kg until reopen · round-close on.  
