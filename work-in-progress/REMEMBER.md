@@ -6,7 +6,7 @@
 **Product nib:** ZETA6 · LULU0–5 · **SETU6.5 · live-sent** · HOLD* · **Sala B0 Glow compose** · authored line · sign · digest · fields  
 **Language nib:** **STOA0–254** · language return · bartis N-field identity emit  
 **Suite nib:** ZETA0–6 · LULU0–5 · SETU0–SETU6.5 · live-sent · HOLD* · STOA0–254  
-**Git nib:** *(set after send)* · STOA253–254  
+**Git nib:** `8492f8195698` · STOA253–254
 
 
 **Season:** Framework · Eastern / EDT · language return · bartis N-field identity GREEN · round-close on.  
