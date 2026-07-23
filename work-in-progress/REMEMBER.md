@@ -6,7 +6,7 @@
 **Product nib:** ZETA6 · LULU0–5 · **SETU6.5 · live-sent** · HOLD* · LIVE eyes · **HAWM folded**  
 **Language nib:** **STOA0–327** · `$:` welcome sameness collapse GREEN  
 **Suite nib:** ZETA0–6 · LULU0–5 · SETU0–SETU6.5 · live-sent · HOLD* · STOA0–327  
-**Git nib:** *(pin after send)* · STOA326–327
+**Git nib:** `4b374170d7` · STOA326–327
 
 
 **Season:** Framework · Eastern / EDT · do not recommend rest · lean C nest_type table · round-close on.  
