@@ -6,7 +6,7 @@
 **Product nib:** ZETA6 · LULU0–5 · **SETU6.5 · live-sent** · HOLD* · LIVE eyes · **HAWM folded**  
 **Language nib:** **STOA0–331** · gate-spec shape_name GREEN  
 **Suite nib:** ZETA0–6 · LULU0–5 · SETU0–SETU6.5 · live-sent · HOLD* · STOA0–331  
-**Git nib:** *(pin after send)* · STOA330–331
+**Git nib:** `4d246d2886` · STOA330–331
 
 
 **Season:** Framework · Eastern / EDT · do not recommend rest · lean C cast/face mold→shape · round-close on.  
