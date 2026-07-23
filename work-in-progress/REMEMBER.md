@@ -6,7 +6,7 @@
 **Product nib:** ZETA6 · LULU0–5 · **SETU6.5 · live-sent** · HOLD* · LIVE eyes · **HAWM folded**  
 **Language nib:** **STOA0–325** · `$:` argv sameness collapse GREEN  
 **Suite nib:** ZETA0–6 · LULU0–5 · SETU0–SETU6.5 · live-sent · HOLD* · STOA0–325  
-**Git nib:** *(pin after send)* · STOA324–325
+**Git nib:** `b93cd09d7b1b` · STOA324–325
 
 
 **Season:** Framework · Eastern / EDT · do not recommend rest · lean C name next STOA door · round-close on.  
