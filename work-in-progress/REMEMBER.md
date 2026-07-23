@@ -6,7 +6,7 @@
 **Product nib:** ZETA6 · LULU0–5 · **SETU6.5 · live-sent** · HOLD* · LIVE eyes · **HAWM folded**  
 **Language nib:** **STOA0–329** · nest_type shape table GREEN  
 **Suite nib:** ZETA0–6 · LULU0–5 · SETU0–SETU6.5 · live-sent · HOLD* · STOA0–329  
-**Git nib:** *(pin after send)* · STOA328–329
+**Git nib:** `f18899d8bf` · STOA328–329
 
 
 **Season:** Framework · Eastern / EDT · do not recommend rest · lean C gate-spec shape_name · round-close on.  

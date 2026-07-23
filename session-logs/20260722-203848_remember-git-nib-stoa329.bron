@@ -1,0 +1,16 @@
+format session-log-v1
+stamp 20260722.203848
+editor Cursor
+model Cursor Grok 4.5 300k High Fast
+voice Quin
+host Ubuntu 26.04 LTS GNOME Wayland (Framework 16 AMD) — Eastern (EDT) time convention
+title REMEMBER git nib after STOA329
+prompt round-close pin after nest_type shape table
+think push origin and codeberg landed f18899d8bf
+think pin REMEMBER git_nib to match pier
+obs living card matches send
+product_nib ZETA6 LULU0-5 SETU6.5
+suite_nib STOA0-329
+git_nib f18899d8bf
+file work-in-progress/REMEMBER.md pin after STOA328-329 send
+recommend check-in lean C gate-spec mold_name to shape_name then kg
