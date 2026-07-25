@@ -4,6 +4,7 @@
 **Status:** Living pin — newest-first index (current day)  
 **Bound:** under `living_pin_max_bytes`
 
+- `20260725.160415` — [Send Quin relay PR 131 nib 75627b4349](20260725-160415_send-quin-relay-pr131.bron) — PR #131 sent · structure · Mand · harvest · Glow floor  
 - `20260725.160000` — [Quin relay structure Mand harvest Glow floor](20260725-160000_quin-relay-structure-mand-harvest.bron) — column fix · mand/ home · ring-3 · four harvest verbs · Glow text floor  
 - `20260725.160000` — [Explore shell harvest bench · duty 8 · four verbs](20260725-160000_explore-shell-harvest-bench.bron) — law seated · duty8 count 28 · four Rishi laps unimplemented  
 - `20260725.160000` — [Explore Mand ring-3 bench spec · witnesses · files](20260725-160000_explore-mand-ring3-bench.bron) — section Five spec · zero ring-3 code · ring-1/2 template · test-only reach informal  
