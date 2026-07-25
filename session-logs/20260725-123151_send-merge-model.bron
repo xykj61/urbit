@@ -1,0 +1,9 @@
+format session-log-v1
+stamp 20260725.123151
+editor Cursor
+model Cursor Grok 4.5 300k High Fast
+voice Quin
+title Send merge model scorecard PR
+prompt send
+obs PR follow-up sent · nib 65bfe8adb1 · PR 131 merged 3c7daef · OutOfNamespace · scorecard
+recommend keep-going duty-8 shell-body migration

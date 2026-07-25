@@ -4,6 +4,8 @@
 **Status:** Living pin — newest-first index (current day)  
 **Bound:** under `living_pin_max_bytes`
 
+- `20260725.123151` — [Send merge model scorecard PR](20260725-123151_send-merge-model.bron) — PR 131 merged · Grok Now · scorecard · OutOfNamespace
+- `20260725.123151` — [Send merge model scorecard PR](20260725-123151_send-merge-model.bron) — PR 131 merged · Grok Now · scorecard · OutOfNamespace  
 - `20260725.123055` — [Merge PR 131 model switch scorecard confirm](20260725-123055_merge-pr131-model-scorecard.bron) — merged · Grok 4.5 Now · scorecard filled · OutOfNamespace  
 - `20260725.120908` — [Send Quin relay PR 131 restamped EDT](20260725-120908_send-quin-relay-restamp.bron) — UTC drift fixed · duty 4 provenance · PR #131 sent  
 - `20260725.120702` — [Send Quin relay PR 131 nib 75627b4349](20260725-120702_send-quin-relay-pr131.bron) — superseded send stamp (UTC drift; restamped)  
