@@ -21,7 +21,7 @@ const tally_copy = @import("tally_copy.rye");
 const witness_version = "20260725.120701";
 
 fn run_selftest() !u8 {
-    const subject = "subj-alpha";
+    const subject = "test/subj-alpha";
     const plaintext = "personal-content-v1";
     var key_material: [mand3.max_key_bytes]u8 = undefined;
     @memset(key_material[0..], 0xAB);
@@ -40,6 +40,26 @@ fn run_selftest() !u8 {
     const log_bytes = "append-only-log-bytes-never-edited";
 
     const digest_before = mand3.digest_log_bytes(log_bytes);
+
+    // Out-of-namespace refuse (reach constraint by construction).
+    const outside = mand3.destroy_key(
+        &store,
+        &removal_log,
+        &sched,
+        250,
+        &[_]mand2.Hold{},
+        .person_request,
+        "prod/subj-alpha",
+        true,
+        250,
+    );
+    if (outside) |_| {
+        return error.OutOfNamespaceAdmitted;
+    } else |err| {
+        if (err != mand3.ErasureError.OutOfNamespace) return err;
+    }
+    assert(removal_log.count == 0);
+    print("mand-ring3: out-of-namespace REFUSES OutOfNamespace -- GREEN unwelcome path\n", .{});
 
     // Claim 5: witness mode off refuses.
     const no_mode = mand3.destroy_key(

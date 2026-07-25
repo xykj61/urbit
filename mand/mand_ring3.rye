@@ -30,10 +30,14 @@ pub const ErasureError = error{
     HeldRefused,
     NotEligible,
     MissingKeyRef,
+    OutOfNamespace,
     MalformedAuthority,
     RemovalLogFull,
     KeyStoreFull,
 };
+
+/// Test-only subject namespace — production reach awaits Keaton's word.
+pub const test_namespace_prefix = "test/";
 
 pub const ErasureAuthority = enum {
     person_request,
@@ -183,6 +187,12 @@ pub fn digest_log_bytes(log: []const u8) [32]u8 {
     return root;
 }
 
+/// True when subject is inside the test namespace (test/…).
+pub fn in_test_namespace(subject: []const u8) bool {
+    if (subject.len < test_namespace_prefix.len) return false;
+    return std.mem.eql(u8, subject[0..test_namespace_prefix.len], test_namespace_prefix);
+}
+
 /// Fail closed when witness mode is off — test-only reach at this lap.
 pub fn witness_mode_allowed(enabled: bool) bool {
     return enabled;
@@ -204,6 +214,7 @@ pub fn destroy_key(
     assert(holds.len <= mand2.max_holds_per_record);
     if (!witness_mode_allowed(witness_mode)) return error.WitnessModeRequired;
     if (subject.len == 0 or subject.len > max_subject_len) return error.MissingKeyRef;
+    if (!in_test_namespace(subject)) return error.OutOfNamespace;
     const idx = store.find_index(subject) orelse return error.MissingKeyRef;
     assert(idx < store.count);
     const standing = mand2.retention_standing(schedule, now, holds) catch return error.MalformedAuthority;

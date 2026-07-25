@@ -1,0 +1,17 @@
+format session-log-v1
+stamp 20260725.123055
+editor Cursor
+model Cursor Grok 4.5 300k High Fast
+voice Quin
+title Merge PR 131 model switch scorecard confirm
+prompt Quin relay merge 131 record model switch scorecard confirm Mand ring-3 harvest Glow
+think Merged PR 131 as 3c7daef320; no 16xx stamps; duty 4 already seated
+think Recorded Grok 4.5 as active bench model; filled bakeoff scorecard from bron counts with confound
+think Pool scan 2605 md files two known-good content reds named; PASS fixture green
+think Mand home already on main; tightened ring-3 OutOfNamespace test/ prefix; harvest verbs and Glow floor confirmed GREEN
+obs Task confound Composer bulk prose vs Grok witnessed laps — observations not verdict
+file tools/fixtures/bench_bakeoff_scorecard.md observation fill from tree
+file mand/mand_ring3.rye OutOfNamespace test namespace
+file work-in-progress/REMEMBER.md active bench model Grok 4.5
+file counsel/replies/20260725-123055_re-quin-relay-merge-model.md close reply
+recommend keep-going duty-8 shell-body migration
