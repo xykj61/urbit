@@ -11,7 +11,7 @@
 **Product nib:** ZETA6 · LULU0–5 · **SETU6.5 · live-sent** · HOLD* · LIVE eyes · **HAWM folded** · **Seva** · **Mand ring-1 · ring-2 · ring-3** · **THREATS** · **five pillars** · **accrete tiers** · **redaction stance** · **always-in-it rhythm**  
 **Language nib:** **STOA0–333** · glow mode SLC · digraph twin rung 1a GREEN · list512 GREEN · **stamp @u64 · Crockford** · **shape aura floor** · **Glow text floor GREEN**  
 **Suite nib:** ZETA0–6 · LULU0–5 · SETU0–SETU6.5 · live-sent · HOLD* · STOA0–333 · **Mand home** · **markdown_structure column fix** · **one-clock duty 4 provenance** · **shell harvest verbs** · **bakeoff scorecard filled** · **campaign STOPPED** · **growth law**  
-**Git nib:** `65bfe8adb1` · follow-up PR
+**Git nib:** `2087f214cb` · follow-up PR #132
 
 **Season:** Framework · EDT · **finishing edge:** duty-8 shell-body migration · vere/old ritual · data-dignity counsel.
 
